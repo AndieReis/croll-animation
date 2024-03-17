@@ -29,10 +29,11 @@
 ##
 Links úteis:
 
-Veja o projeto rodando aqui:
+Veja o projeto rodando [aqui](https://scroll-animation-project.vercel.app/):
 
 
-[Scroll animation Project](scroll-animation-project-ihppqavnh-andiereis-projects.vercel.app)
+
+https://github.com/AndieReis/scroll-animation/assets/122743869/7586a3ae-b847-44ef-83a7-03772f7cee47
 
 
 
