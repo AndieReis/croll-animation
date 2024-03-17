@@ -32,6 +32,10 @@ Links úteis:
 Veja o projeto rodando aqui:
 
 
+[Scroll animation Project](scroll-animation-project-ihppqavnh-andiereis-projects.vercel.app)
+
+
+
 
 ##
 Contatos:
